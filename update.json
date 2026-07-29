@@ -1,8 +1,8 @@
 {
-    "version": 32,
-  "download": "https://github.com/TrungDoo-123/V3ToolsUpdate/releases/download/v30.0.1/V3Tools_30.0.1.zip",
+    "version": 31,
+  "download": "https://github.com/TrungDoo-123/V3ToolsUpdate/releases/download/v31/V3Tools_31.zip",
   "mandatory": false,
-  "title": "V3Tools 30.0.1",
+  "title": "V3Tools 311",
   "message": "Fix login, improve Civil3D 2027 compatibility.",
-  "releaseDate": "2026-07-29"
+  "releaseDate": "2026-07-30"
 }
